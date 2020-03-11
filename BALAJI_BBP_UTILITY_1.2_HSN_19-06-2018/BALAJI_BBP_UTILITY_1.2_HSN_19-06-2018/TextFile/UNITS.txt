@@ -1,0 +1,14 @@
+$UUNIT MASTERS                                 @
+01,KILOGRAM            ,किलो   ,Kg   ,1@
+02,GRAMS               ,ग्रम   ,Gm   ,1@
+03,LITER               ,लिटर   ,Ltr  ,1@
+04,METER               ,मीटर   ,Mtr  ,1@
+05,PLATE               ,प्लेट,     ,0@
+06,PACKET              ,पैकेट,     ,0@
+07,NUMBER              ,संख्   ,     ,0@
+08,BOTTEL              ,बाटल   ,     ,0@
+09,CUP                 ,कप         ,     ,0@
+10,GLASS               ,ग्लास,     ,0@
+11,DOZEN               ,दर्जन,     ,1@
+12,QUANTITY            ,मात्   ,     ,0@
+

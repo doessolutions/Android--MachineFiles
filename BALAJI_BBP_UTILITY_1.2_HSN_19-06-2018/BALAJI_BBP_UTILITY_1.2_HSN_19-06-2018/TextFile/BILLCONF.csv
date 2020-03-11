@@ -1,0 +1,14 @@
+$TCONFIG                  @
+01,BILL NUMBER         ,00@
+02,ROUND BILL AMOUNT   ,00@
+03,DISCOUNT TYPE       ,00@
+04,USER DEFINE FIELD   ,01@
+05,                    ,00@
+06,                    ,00@
+07,KITCHEN ORDER TABLE ,01@
+08,SELECT KOT - PANAL  ,00@
+09,CHANGE PRICE BILLING,01@
+10,PRINT CASH RECEIVED ,01@
+11,OTHER CHARGE        ,01@
+12,                    ,00.00@
+
